@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 diffusers
+transformers
 torch
 safetensors
 Pillow
