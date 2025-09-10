@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-diffusers>=0.21.0
+diffusers>=0.35.1
 transformers
 torch
 safetensors
