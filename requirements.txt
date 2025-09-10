@@ -1,7 +1,4 @@
 fastapi
-uvicorn[standard]
-diffusers>=0.35.1
-transformers
-torch
-safetensors
-Pillow
+uvicorn
+huggingface_hub
+python-multipart
